@@ -8,6 +8,8 @@
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-yellow?logo=python)](https://python.org/)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
+![Demo](docs/demo.gif)
+
 ---
 
 ## Overview
