@@ -1,0 +1,22 @@
+# Model weights (host separately on HuggingFace/Drive)
+my_vision_policy/weights/*.pt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# pixi
+.pixi/
+
+# Debug output
+/tmp/aic_detect/
+
+# Build artifacts
+files.txt
+resource/
+
+# IDE
+.vscode/
